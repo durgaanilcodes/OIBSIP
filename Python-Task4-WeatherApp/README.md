@@ -1,7 +1,29 @@
 # Basic Weather App
 
-## Oasis Infobyte Internship
+## 📌 Description
+A Python application that fetches real-time weather information using the OpenWeatherMap API.
 
-Task 4 - Basic Weather App
+## 🚀 Features
+- Search weather by city
+- Displays:
+  - Temperature
+  - Humidity
+  - Weather Condition
+  - Wind Speed
+- Handles invalid city names
 
-Created by Durga Anil
+## 🛠 Technologies Used
+- Python 3.11
+- Requests Library
+- OpenWeatherMap API
+
+## ▶️ How to Run
+
+```bash
+pip install requests
+python weather_app.py
+```
+
+## 👨‍💻 Author
+
+Durga Anil
